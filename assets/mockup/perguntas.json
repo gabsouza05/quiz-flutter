@@ -1,0 +1,62 @@
+[
+  {
+    "pergunta": "Qual foi o primeiro álbum solo de Raul Seixas, lançado em 1973?",
+    "respostas": ["Krig-ha, Bandolo!", "Gita", "Novo Aeon", "O Dia em que a Terra Parou"],
+    "correta": 1,
+    "ilustracao": "mockup/imagem1.png"
+  },
+  {
+    "pergunta": "Com qual famoso escritor Raul Seixas tinha uma grande parceria musical?",
+    "respostas": ["Jorge Amado", "Paulo Coelho", "Rubem Fonseca", "Chico Buarque"],
+    "correta": 2,
+    "ilustracao": "mockup/imagem2.png"
+  },
+  {
+    "pergunta": "Em qual cidade brasileira Raul Seixas nasceu, em 1945?",
+    "respostas": ["Rio de Janeiro", "São Paulo", "Salvador", "Recife"],
+    "correta": 3,
+    "ilustracao": "mockup/imagem3.png"
+  },
+  {
+    "pergunta": "Qual música tem o verso 'Eu prefiro ser essa metamorfose ambulante'?",
+    "respostas": ["Maluco Beleza", "Al Capone", "Metamorfose Ambulante", "Tente Outra Vez"],
+    "correta": 3,
+    "ilustracao": "mockup/imagem4.png"
+  },
+  {
+    "pergunta": "Qual conceito filosófico Raul e Paulo Coelho pregavam em 'Sociedade Alternativa'?",
+    "respostas": ["Socialismo utópico", "Thelema, de Aleister Crowley", "Budismo zen", "Espiritismo kardecista"],
+    "correta": 2,
+    "ilustracao": "mockup/imagem5.png"
+  },
+  {
+    "pergunta": "Como Raul Seixas ficou conhecido, sendo pioneiro do gênero no Brasil?",
+    "respostas": ["Pai do samba-rock", "Rei do baião", "Pai do rock brasileiro", "Príncipe do tropicalismo"],
+    "correta": 3,
+    "ilustracao": "mockup/imagem6.png"
+  },
+  {
+    "pergunta": "Qual álbum de 1974 tem o nome de um conceito espiritual indiano?",
+    "respostas": ["Novo Aeon", "Gita", "Abre-te Sésamo", "Mata Virgem"],
+    "correta": 2,
+    "ilustracao": "mockup/imagem7.png"
+  },
+  {
+    "pergunta": "Em que ano Raul Seixas faleceu?",
+    "respostas": ["1985", "1987", "1989", "1992"],
+    "correta": 3,
+    "ilustracao": "mockup/imagem8.png"
+  },
+  {
+    "pergunta": "Qual música de Raul fala sobre acordar cedo para pegar o trem para o trabalho?",
+    "respostas": ["Rock das Aranhas", "Mostre Sua Carinha", "O Trem das Sete", "A Cidade"],
+    "correta": 3,
+    "ilustracao": "mockup/imagem9.png"
+  },
+  {
+    "pergunta": "Qual hit tem a frase 'Tente e não diga que a vitória está perdida'?",
+    "respostas": ["Maluco Beleza", "Tente Outra Vez", "Eu Nasci Há Dez Mil Anos Atrás", "Mostre Sua Carinha"],
+    "correta": 2,
+    "ilustracao": "mockup/imagem10.png"
+  }
+]

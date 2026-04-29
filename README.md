@@ -54,16 +54,16 @@ Um aplicativo de quiz interativo desenvolvido em Flutter com 10 perguntas sobre 
 ---
 
 ## 📁 Estrutura do Projeto
-lib/
-├── main.dart              # Ponto de entrada do app
-├── screens/
-│   ├── home_screen.dart   # Tela inicial com campo de nome
-│   ├── quiz_screen.dart   # Tela de perguntas e alternativas
-│   └── result_screen.dart # Tela de resultado final
-└── data/
-    └── questions.dart     # Banco de perguntas do quiz
+### lib/
+### ├── main.dart              
+### ├── screens/
+### │   ├── home_screen.dart   
+### │   ├── quiz_screen.dart   
+### │   └── result_screen.dart 
+### └── data/
+   ### └── questions.dart    
 
-> A estrutura pode variar conforme a organização do seu projeto.
+>> A estrutura pode variar conforme a organização do seu projeto.
 
 ---
 

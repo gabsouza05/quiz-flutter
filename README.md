@@ -78,3 +78,13 @@ As perguntas abordam temas como:
 - Vida pessoal e trajetória artística
 - Parcerias e colaborações
 - Curiosidades e fatos marcantes
+
+```
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="assets/image0.jpeg" width="250" alt="Tela Inicial"/>
+  <img src="assets/image1.jpeg" width="250" alt="Tela de Perguntas"/>
+  <img src="assets/image2.jpeg" width="250" alt="Resultado"/>
+</p>

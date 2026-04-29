@@ -31,17 +31,17 @@ Um aplicativo de quiz interativo desenvolvido em Flutter com 10 perguntas sobre 
 ### Passo a passo
 
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+    # Clone o repositório
+    git clone https://github.com/seu-usuario/seu-repositorio.git
 
-# Acesse a pasta do projeto
-cd seu-repositorio
+    # Acesse a pasta do projeto
+    cd seu-repositorio
 
-# Instale as dependências
-flutter pub get
+    # Instale as dependências
+    flutter pub get
 
-# Execute o aplicativo
-flutter run
+    # Execute o aplicativo
+    flutter run
 ```
 
 ---
@@ -54,8 +54,6 @@ flutter run
 ---
 
 ## 📁 Estrutura do Projeto
-
-```
 lib/
 ├── main.dart              # Ponto de entrada do app
 ├── screens/
@@ -64,7 +62,6 @@ lib/
 │   └── result_screen.dart # Tela de resultado final
 └── data/
     └── questions.dart     # Banco de perguntas do quiz
-```
 
 > A estrutura pode variar conforme a organização do seu projeto.
 
@@ -79,9 +76,9 @@ As perguntas abordam temas como:
 - Parcerias e colaborações
 - Curiosidades e fatos marcantes
 
-```
+---
 
-## 📱 Screenshots
+## 📸 Screenshots
 
 <p align="center">
   <img src="assets/image0.jpeg" width="250" alt="Tela Inicial"/>
